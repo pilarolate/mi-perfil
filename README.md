@@ -1,5 +1,7 @@
 # Hola, soy Pilar Olate
 
+![Banner](https://via.placeholder.com/800x300.png?text=Android+Developer)
+
 ## Sobre mí
 Soy Ingeniero Civil de profesión y actualmente estoy finalizando el curso de Desarrollo de Aplicaciones Móviles Android Trainee, donde he fortalecido mis habilidades en programación y desarrollo de aplicaciones móviles.
 
@@ -14,6 +16,10 @@ Soy Ingeniero Civil de profesión y actualmente estoy finalizando el curso de De
 - Herramientas: Android Studio, Apache NetBeans, GitHub
 - Bases de datos: MySQL
 - Otros: PSeInt, consumo de APIs, testing básico
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ## Formación reciente
 Durante el curso he trabajado en:
@@ -36,6 +42,9 @@ Seguir creciendo como desarrolladora, adquiriendo experiencia práctica en el de
 
 ## Datos personales
 Me encuentro en etapa de transición hacia el mundo del desarrollo tecnológico, integrando mi formación profesional con nuevas competencias digitales.
+
+## 📫 Contacto
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/TU-USUARIO)
 
 ---
 Gracias por visitar mi perfil.
