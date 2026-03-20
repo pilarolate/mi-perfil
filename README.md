@@ -8,8 +8,7 @@ Soy Ingeniero Civil de profesión y actualmente estoy finalizando el curso de De
 ## Intereses en tecnología
 - Desarrollo de aplicaciones móviles Android
 - Desarrollo de software
-- Bases de datos
-- Consumo de APIs y aplicaciones empresariales
+- Bases de datos y consumo de APIs
 
 ## Tecnologías y herramientas
 - Lenguajes: Java, Kotlin
@@ -20,6 +19,8 @@ Soy Ingeniero Civil de profesión y actualmente estoy finalizando el curso de De
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Formación reciente
 Durante el curso he trabajado en:
@@ -38,13 +39,10 @@ Me interesa seguir desarrollando:
 - Aplicaciones conectadas a servicios web
 
 ## Objetivo profesional
-Seguir creciendo como desarrolladora, adquiriendo experiencia práctica en el desarrollo de aplicaciones móviles y ampliando mis conocimientos en tecnologías modernas.
-
-## Datos personales
-Me encuentro en etapa de transición hacia el mundo del desarrollo tecnológico, integrando mi formación profesional con nuevas competencias digitales.
+Seguir creciendo como desarrolladora Android y adquirir experiencia en proyectos reales.
 
 ## 📫 Contacto
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/TU-USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-181717?style=for-the-badge&logo=github)](https://github.com/pilarolate)
 
 ---
 Gracias por visitar mi perfil.
